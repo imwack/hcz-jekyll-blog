@@ -6,7 +6,7 @@ github: https://github.com/imwack
 about: Nice to meet you.
 
 baseurl: #"wack.space"
-url: "imwack.github.io"
+url: wack.space #"imwack.github.io"
 
 allowsearch: true
 
