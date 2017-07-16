@@ -5,7 +5,7 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/imwack
 about: Nice to meet you.
 
-baseurl: "wack.space"
+baseurl: #"wack.space"
 url: "imwack.github.io"
 
 allowsearch: true
