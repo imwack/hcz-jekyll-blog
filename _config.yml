@@ -1,21 +1,21 @@
-title: John Smith
+title: wack's space
 description: My Personal Blog
-author: John Smith
+author: w03k
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/imwack
+about: NJUPT-wack
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: 
+google_analytics: 
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  twitter_username: w0_3k
+  fb_appid: 
 
 
 enableTags: true
