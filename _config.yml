@@ -3,7 +3,7 @@ description: My Personal Blog
 author: w03k
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/imwack
-about: NJUPT-wack
+about: Nice to meet you.
 
 baseurl: "wack.space"
 url: "imwack.github.io"
@@ -14,7 +14,7 @@ disqus_shortname:
 google_analytics: 
 
 share:
-  twitter_username: w0_3k
+  twitter_username: "w0_3k"
   fb_appid: 
 
 
